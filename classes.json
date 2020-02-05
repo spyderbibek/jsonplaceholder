@@ -1,0 +1,90 @@
+{
+  "clases": [
+    {
+      "name": "One",
+      "sections": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "name": "Two",
+      "sections": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    },
+    {
+      "name": "Three",
+      "sections": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "name": "Four",
+      "sections": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "name": "Five",
+      "sections": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "name": "Six",
+      "sections": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "name": "Seven",
+      "sections": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    },
+    {
+      "name": "Eight",
+      "sections": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "name": "Nine",
+      "sections": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "name": "Ten",
+      "sections": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    }
+  ]
+}
