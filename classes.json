@@ -1,0 +1,506 @@
+{
+  "classes": [
+    {
+      "name": "One",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Two",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Three",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Four",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "e",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Five",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Six",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "e",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seven",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eight",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "e",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nine",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ten",
+      "sections": [
+        {
+          "name": "a",
+          "subjects": [
+            "English",
+            "Nepali",
+			"English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "b",
+          "subjects": [
+            "English",
+            "Nepali",
+			"English",
+            "Nepali",
+			"English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "c",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "d",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "e",
+          "subjects": [
+            "English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        },
+		{
+          "name": "f",
+          "subjects": [
+            "English",
+            "Nepali",
+			"English",
+            "Nepali",
+			"English",
+            "Nepali",
+			"English",
+            "Nepali"
+          ],
+		  "student": [
+            "Bibek Shah",
+            "Shivram Shrestha"
+          ]
+        }
+      ]
+    }
+  ]
+}
